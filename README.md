@@ -50,25 +50,25 @@ numpy = 1.16.1
 ## Result Example
 
 
-<img src="./images/Monet/blank.png" width="224" height="224"> </img>
-<img src="./images/Monet/Three_Fishing_Boats.jpg" width="224" height="224"> </img>
-<img src="./images/Monet/Poppy_Field.jpg" width="224" height="224"> </img>
-<img src="./images/Monet/The_Road_to_Vetheuil.jpg" width="224" height="224"> </img>
+<img src="./images/Monet/blank.png" width="200" height="200"> </img>
+<img src="./images/Monet/Three_Fishing_Boats.jpg" width="200" height="200"> </img>
+<img src="./images/Monet/Poppy_Field.jpg" width="200" height="200"> </img>
+<img src="./images/Monet/The_Road_to_Vetheuil.jpg" width="200" height="200"> </img>
 
-<img src="./images/content/brad_pitt.jpg" width="224" height="224"> </img>
-<img src="./result/brad_pitt_Three_Fishing_Boats_3.jpg" width="224" height="224"> </img>
-<img src="./result/brad_pitt_Poppy_Field_9.jpg" width="224" height="224"> </img>
-<img src="./result/brad_pitt_The_Road_to_Vetheuil_4.jpg" width="224" height="224"> </img>
+<img src="./images/content/brad_pitt.jpg" width="200" height="200"> </img>
+<img src="./result/brad_pitt_Three_Fishing_Boats_3.jpg" width="200" height="200"> </img>
+<img src="./result/brad_pitt_Poppy_Field_9.jpg" width="200" height="200"> </img>
+<img src="./result/brad_pitt_The_Road_to_Vetheuil_4.jpg" width="200" height="200"> </img>
 
-<img src="./images/content/golden_gate.jpg" width="224" height="224"> </img>
-<img src="./result/golden_gate_Three_Fishing_Boats_3.jpg" width="224" height="224"> </img>
-<img src="./result/golden_gate_Poppy_Field_9.jpg" width="224" height="224"> </img>
-<img src="./result/golden_gate_The_Road_to_Vetheuil_4.jpg" width="224" height="224"> </img>
+<img src="./images/content/golden_gate.jpg" width="200" height="200"> </img>
+<img src="./result/golden_gate_Three_Fishing_Boats_3.jpg" width="200" height="200"> </img>
+<img src="./result/golden_gate_Poppy_Field_9.jpg" width="200" height="200"> </img>
+<img src="./result/golden_gate_The_Road_to_Vetheuil_4.jpg" width="200" height="200"> </img>
 
-<img src="./images/content/brad_pitt.jpg" width="224" height="224"> </img>
-<img src="./result/tubingen_Three_Fishing_Boats_3.jpg" width="224" height="224"> </img>
-<img src="./result/tubingen_Poppy_Field_9.jpg" width="224" height="224"> </img>
-<img src="./result/tubingen_The_Road_to_Vetheuil_4.jpg" width="224" height="224"> </img>
+<img src="./images/content/brad_pitt.jpg" width="200" height="200"> </img>
+<img src="./result/tubingen_Three_Fishing_Boats_3.jpg" width="200" height="200"> </img>
+<img src="./result/tubingen_Poppy_Field_9.jpg" width="200" height="200"> </img>
+<img src="./result/tubingen_The_Road_to_Vetheuil_4.jpg" width="200" height="200"> </img>
 
 ## Differences from the original
 
