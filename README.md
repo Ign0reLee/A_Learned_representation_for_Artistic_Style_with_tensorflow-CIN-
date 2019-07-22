@@ -65,7 +65,7 @@ numpy = 1.16.1
 <img src="./result/golden_gate_Poppy_Field_9.jpg" width="200" height="200"> </img>
 <img src="./result/golden_gate_The_Road_to_Vetheuil_4.jpg" width="200" height="200"> </img>
 
-<img src="./images/content/brad_pitt.jpg" width="200" height="200"> </img>
+<img src="./images/content/tubingen.jpg" width="200" height="200"> </img>
 <img src="./result/tubingen_Three_Fishing_Boats_3.jpg" width="200" height="200"> </img>
 <img src="./result/tubingen_Poppy_Field_9.jpg" width="200" height="200"> </img>
 <img src="./result/tubingen_The_Road_to_Vetheuil_4.jpg" width="200" height="200"> </img>
